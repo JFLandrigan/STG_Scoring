@@ -15,6 +15,8 @@ Included in the package:
     - tfidf_vectorize.py: module for performing functions specific to generating tf-idf matrices
     
     - Run_Script.py: example script for using the modules to score reflections. 
+ 
+For more information about the modelling processing you can read this post: https://medium.com/@jon.landrigan/teachers-aid-a-nlp-tool-to-help-teachers-evaluate-student-reflections-5e4d80d95878
 
 Contributors:
 Jon-Frederick Landrigan 
