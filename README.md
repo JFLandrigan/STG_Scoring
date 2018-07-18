@@ -1,6 +1,6 @@
 # STG_Scoring
 
-This package contains files and funcitons specific for the scoring of the quality of reflections from users of the Sown To Grow platform (https://www.sowntogrow.com/).
+This package contains files and functions specific for the scoring of the quality of reflections from users of the Sown To Grow platform (https://www.sowntogrow.com/).
 
 Note that this repo only contains the code for the scoring pipeline but does not contain the data files necessary for generating features or initializing the models as that data is proprietary.
 
