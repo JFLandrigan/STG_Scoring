@@ -25,10 +25,7 @@ def text_process(mess):
     # remove blank spaces
     return(list(filter(None, nonstop)))
     
-#frequency_vectorize
-        #used for training of the model
-        #Expects a pandas dataframe containing the Corrected_Reflection column
-        #returns the tfidf sparse matrix
+
 def frequency_vectorize(df):
     '''
     frequency_vectorize: function to generate tfidf sparse matrix and save out vectorizer
